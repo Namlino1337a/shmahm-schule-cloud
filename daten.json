@@ -43,5 +43,20 @@
     "fileName": "WhatsApp Video 2024-04-27 um 11.16.12_19dec4c2.mp4",
     "filePath": "uploads/videos/1794588163217_WhatsApp_Video_2024-04-27_um_11.16.12_19dec4c2.mp4",
     "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/videos/1794588163217_WhatsApp_Video_2024-04-27_um_11.16.12_19dec4c2.mp4"
+  },
+  {
+    "id": "gh_1794588257934",
+    "title": "test",
+    "desc": "test",
+    "category": "bilder",
+    "visibility": "oeffentlich",
+    "uploader": "97trua",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "13.11.2026, 17:44",
+    "fileName": "Hinter der Maske.jpg",
+    "filePath": "uploads/bilder/1794588258862_Hinter_der_Maske.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/bilder/1794588258862_Hinter_der_Maske.jpg"
   }
 ]
