@@ -1,20 +1,5 @@
 [
   {
-    "id": "gh_1794588057728",
-    "title": "test",
-    "desc": "test",
-    "category": "praesentationen",
-    "visibility": "oeffentlich",
-    "uploader": "Namlino123a",
-    "uploaderRole": "Schüler",
-    "schoolClass": "7f",
-    "isVerified": true,
-    "date": "13.11.2026, 17:40",
-    "fileName": "test.txt",
-    "filePath": "uploads/praesentationen/1794588059986_test.txt",
-    "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/praesentationen/1794588059986_test.txt"
-  },
-  {
     "id": "gh_1794588163920",
     "title": "test",
     "desc": "test",
