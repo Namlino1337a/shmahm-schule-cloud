@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "gh_1794587966688",
+    "title": "test",
+    "desc": "test",
+    "category": "bilder",
+    "visibility": "oeffentlich",
+    "uploader": "Namlino123a",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "13.11.2026, 17:39",
+    "fileName": "Galaxy Enhance-X.jpg",
+    "filePath": "uploads/bilder/1794587966340_Galaxy_Enhance-X.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/bilder/1794587966340_Galaxy_Enhance-X.jpg"
+  }
+]
