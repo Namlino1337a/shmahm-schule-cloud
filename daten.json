@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "gh_1794588543812",
+    "title": "test",
+    "desc": "test",
+    "category": "bilder",
+    "visibility": "oeffentlich",
+    "uploader": "Namlino123a",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "13.11.2026, 17:48",
+    "fileName": "Screenshot 2026-07-11 215032.png",
+    "filePath": "uploads/bilder/1794588543259_Screenshot_2026-07-11_215032.png",
+    "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/bilder/1794588543259_Screenshot_2026-07-11_215032.png"
+  }
+]
