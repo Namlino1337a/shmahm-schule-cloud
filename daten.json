@@ -64,5 +64,21 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "14.11.2026, 17:07"
+  },
+  {
+    "id": "gh_1794674212975",
+    "title": "Protokoll Klassenrat",
+    "desc": "An die Klassensprecherin",
+    "category": "praesentationen",
+    "subject": "Allgemein",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794674217979_Protokoll_Klassenrat.pdf",
+    "filePath": "releases/school-storage-files/1794674217979_Protokoll_Klassenrat.pdf",
+    "fileName": "Protokoll Klassenrat.pdf",
+    "uploader": "Namlino123a",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "14.11.2026, 17:36"
   }
 ]
