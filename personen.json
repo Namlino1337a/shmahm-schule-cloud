@@ -14,5 +14,21 @@
     ],
     "uploader": "Namlino123a",
     "date": "14.11.2026"
+  },
+  {
+    "id": "pers_1794676989758",
+    "subCategory": "schueler",
+    "firstName": "test",
+    "lastName": "test",
+    "schoolClass": "test",
+    "birthdate": "test",
+    "nicknames": [
+      {
+        "nick": "test",
+        "reason": "test"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "14.11.2026"
   }
 ]
