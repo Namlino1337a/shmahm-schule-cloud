@@ -43,5 +43,20 @@
     "fileName": "17946549715623960923814803004977.jpg",
     "filePath": "releases/school-storage-files/1794654981109_17946549715623960923814803004977.jpg",
     "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794654981109_17946549715623960923814803004977.jpg"
+  },
+  {
+    "id": "gh_1794655035055",
+    "title": "test",
+    "desc": "Test",
+    "category": "videos",
+    "visibility": "oeffentlich",
+    "uploader": "97trua",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "14.11.2026, 12:16",
+    "fileName": "20261113_231142.mp4",
+    "filePath": "releases/school-storage-files/1794655028988_20261113_231142.mp4",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794655028988_20261113_231142.mp4"
   }
 ]
