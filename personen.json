@@ -46,5 +46,33 @@
     ],
     "uploader": "Namlino123a",
     "date": "14.11.2026"
+  },
+  {
+    "id": "pers_1794678487870",
+    "subCategory": "schueler",
+    "firstName": "Hasung",
+    "lastName": "Jeon",
+    "schoolClass": "8e",
+    "birthdate": "07.01.2013",
+    "nicknames": [
+      {
+        "nick": "Fahh",
+        "reason": "weil er ständig \"Fah\" sagt"
+      },
+      {
+        "nick": "Auge",
+        "reason": "wegen Asien"
+      },
+      {
+        "nick": "Haseng (alt)",
+        "reason": "Keine Ahnung"
+      },
+      {
+        "nick": "Hasi (alt)",
+        "reason": "Keine Ahnung"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "14.11.2026"
   }
 ]
