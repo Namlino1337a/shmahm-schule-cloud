@@ -81,21 +81,5 @@
     "isVerified": true,
     "date": "14.11.2026, 17:36",
     "editedDate": "14.11.2026, 17:55"
-  },
-  {
-    "id": "gh_1794679268902",
-    "title": "Test",
-    "desc": "https://nam-tv.pages.dev",
-    "category": "bilder",
-    "subject": "Allgemein",
-    "visibility": "oeffentlich",
-    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794679268969_Nam_20261023_163255_0000.png",
-    "filePath": "releases/school-storage-files/1794679268969_Nam_20261023_163255_0000.png",
-    "fileName": "Nam_20261023_163255_0000.png",
-    "uploader": "Namlino123a",
-    "uploaderRole": "Lehrer",
-    "schoolClass": "8e",
-    "isVerified": true,
-    "date": "14.11.2026, 19:01"
   }
 ]
