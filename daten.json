@@ -48,5 +48,21 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "14.11.2026, 17:02"
+  },
+  {
+    "id": "gh_1794672431233",
+    "title": "Plan wegen Bentobox am 17.11.2026",
+    "desc": "Leo, Patrick und Nam",
+    "category": "praesentationen",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794672431481_Franz_sisch_Pr_sentation__261114_154239.pdf",
+    "filePath": "releases/school-storage-files/1794672431481_Franz_sisch_Pr_sentation__261114_154239.pdf",
+    "fileName": "Französisch Präsentation _261114_154239.pdf",
+    "uploader": "Namlino123a",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "14.11.2026, 17:07"
   }
 ]
