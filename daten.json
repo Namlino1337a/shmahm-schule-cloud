@@ -85,7 +85,7 @@
   {
     "id": "gh_1794674931804",
     "title": "test",
-    "desc": "/link: www.google.com",
+    "desc": "https://.google.com",
     "category": "bilder",
     "subject": "Allgemein",
     "visibility": "oeffentlich",
