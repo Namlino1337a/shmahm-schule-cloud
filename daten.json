@@ -85,7 +85,7 @@
   {
     "id": "gh_1794674931804",
     "title": "test",
-    "desc": "www.google.com",
+    "desc": "/link: www.google.com",
     "category": "bilder",
     "subject": "Allgemein",
     "visibility": "oeffentlich",
@@ -96,6 +96,7 @@
     "uploaderRole": "Schüler",
     "schoolClass": "8e",
     "isVerified": true,
-    "date": "14.11.2026, 17:48"
+    "date": "14.11.2026, 17:48",
+    "editedDate": "14.11.2026, 17:49"
   }
 ]
