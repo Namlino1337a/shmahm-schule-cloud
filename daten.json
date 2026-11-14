@@ -28,5 +28,20 @@
     "fileName": "Galaxy Enhance-X.jpg",
     "filePath": "uploads/bilder/1794645548357_Galaxy_Enhance-X.jpg",
     "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/bilder/1794645548357_Galaxy_Enhance-X.jpg"
+  },
+  {
+    "id": "gh_1794646375147",
+    "title": "test",
+    "desc": "test",
+    "category": "videos",
+    "visibility": "oeffentlich",
+    "uploader": "Namlino123a",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "14.11.2026, 09:52",
+    "fileName": "20261113_215322.mp4",
+    "filePath": "uploads/videos/1794646372437_20261113_215322.mp4",
+    "fileUrl": "https://raw.githubusercontent.com/Namlino1337a/shmahm-schule-cloud/main/uploads/videos/1794646372437_20261113_215322.mp4"
   }
 ]
