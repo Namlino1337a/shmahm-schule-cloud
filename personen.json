@@ -235,5 +235,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794734607737",
+    "subCategory": "schueler",
+    "firstName": "Magdalena",
+    "lastName": "Emmrich",
+    "schoolClass": "8e",
+    "birthdate": "Unbekannt",
+    "username": "",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Nachbar",
+        "reason": "Wegen Leo"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
