@@ -153,5 +153,23 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 16:28"
+  },
+  {
+    "id": "gh_1794772954233",
+    "title": "test",
+    "desc": "@Hoai Nam Pham",
+    "category": "bilder",
+    "subject": "Allgemein",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794772955601_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "filePath": "releases/school-storage-files/1794772955601_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "fileName": "WhatsApp Image 2026-11-09 at 19.06.29.jpeg",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "15.11.2026, 21:02"
   }
 ]
