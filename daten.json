@@ -157,7 +157,7 @@
   {
     "id": "gh_1794770717751",
     "title": "test",
-    "desc": "@Hoai Nam Pham",
+    "desc": "@Konstantin Müller",
     "category": "bilder",
     "subject": "Allgemein",
     "visibility": "oeffentlich",
@@ -170,6 +170,7 @@
     "uploaderRole": "Schüler",
     "schoolClass": "8e",
     "isVerified": true,
-    "date": "15.11.2026, 20:25"
+    "date": "15.11.2026, 20:25",
+    "editedDate": "15.11.2026, 20:29"
   }
 ]
