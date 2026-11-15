@@ -118,5 +118,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794727232337",
+    "subCategory": "schueler",
+    "firstName": "Mika",
+    "lastName": "Haubold",
+    "schoolClass": "8e",
+    "birthdate": "28.04.2013",
+    "username": "mika13",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Camp",
+        "reason": "Weil er immer in 3 Stern Camp geht"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
