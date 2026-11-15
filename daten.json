@@ -153,5 +153,23 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 16:28"
+  },
+  {
+    "id": "gh_1794761892688",
+    "title": "test",
+    "desc": "test",
+    "category": "praesentationen",
+    "subject": "Allgemein",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794761893189_test.txt",
+    "filePath": "releases/school-storage-files/1794761893189_test.txt",
+    "fileName": "test.txt",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "15.11.2026, 17:58"
   }
 ]
