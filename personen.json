@@ -178,7 +178,12 @@
     "birthdate": "Unbekannt",
     "username": "",
     "subjects": [],
-    "nicknames": [],
+    "nicknames": [
+      {
+        "nick": "Leicht",
+        "reason": "Wegen Leichtathletik"
+      }
+    ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
   },
