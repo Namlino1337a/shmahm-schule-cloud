@@ -165,7 +165,12 @@
     "birthdate": "Unbekannt",
     "username": "u9wsjx",
     "subjects": [],
-    "nicknames": [],
+    "nicknames": [
+      {
+        "nick": "Nopel",
+        "reason": "Wegen Konstantinnopel"
+      }
+    ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
   },
