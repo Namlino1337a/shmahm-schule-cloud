@@ -172,23 +172,5 @@
     "isVerified": true,
     "date": "15.11.2026, 20:25",
     "editedDate": "15.11.2026, 20:56"
-  },
-  {
-    "id": "gh_1794772618163",
-    "title": "test",
-    "desc": "@Hoai Nam Pham",
-    "category": "bilder",
-    "subject": "Allgemein",
-    "visibility": "oeffentlich",
-    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794772619730_Screenshot_20261109_193640_Galaxy_Enhance-X.jpg",
-    "filePath": "releases/school-storage-files/1794772619730_Screenshot_20261109_193640_Galaxy_Enhance-X.jpg",
-    "fileName": "Screenshot_20261109_193640_Galaxy Enhance-X.jpg",
-    "uploader": "Namlino123a",
-    "uploaderRealName": "Pham Hoai Nam",
-    "teacherSubjects": "",
-    "uploaderRole": "Schüler",
-    "schoolClass": "8e",
-    "isVerified": true,
-    "date": "15.11.2026, 20:56"
   }
 ]
