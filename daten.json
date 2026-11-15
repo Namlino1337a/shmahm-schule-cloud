@@ -153,5 +153,23 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 16:28"
+  },
+  {
+    "id": "gh_1794760757523",
+    "title": "test",
+    "desc": "test",
+    "category": "bilder",
+    "subject": "Allgemein",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794760758016_Shmahm_Store.png",
+    "filePath": "releases/school-storage-files/1794760758016_Shmahm_Store.png",
+    "fileName": "Shmahm Store.png",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "15.11.2026, 17:39"
   }
 ]
