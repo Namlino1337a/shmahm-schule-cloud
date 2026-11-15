@@ -100,5 +100,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "14.11.2026"
+  },
+  {
+    "id": "pers_1794727095106",
+    "subCategory": "schueler",
+    "firstName": "Leo",
+    "lastName": "Pietschker",
+    "schoolClass": "8e",
+    "birthdate": "16.12.2012",
+    "username": "revali",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Vitt",
+        "reason": "Wegen Vittmann"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
