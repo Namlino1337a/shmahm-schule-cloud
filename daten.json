@@ -153,5 +153,23 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 16:28"
+  },
+  {
+    "id": "gh_1794760422932",
+    "title": "wrar",
+    "desc": "rwar",
+    "category": "bilder",
+    "subject": "Allgemein",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794760423429___20260723_153917_0000.png",
+    "filePath": "releases/school-storage-files/1794760423429___20260723_153917_0000.png",
+    "fileName": "○_20260723_153917_0000.png",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "15.11.2026, 17:33"
   }
 ]
