@@ -325,5 +325,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794734868386",
+    "subCategory": "schueler",
+    "firstName": "Joshua",
+    "lastName": "Metz",
+    "schoolClass": "8e",
+    "birthdate": "Unbekannt",
+    "username": "",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Kimmich",
+        "reason": "Wegen Joshua"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
