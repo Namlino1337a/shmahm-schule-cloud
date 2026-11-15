@@ -199,5 +199,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794734533165",
+    "subCategory": "schueler",
+    "firstName": "Joseph",
+    "lastName": "Cetrangolo",
+    "schoolClass": "8e",
+    "birthdate": "Unbekannt",
+    "username": "",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Krank",
+        "reason": "Weil er ständig krank ist"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
