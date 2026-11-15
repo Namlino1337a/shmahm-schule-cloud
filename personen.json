@@ -181,5 +181,23 @@
     "nicknames": [],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794734470897",
+    "subCategory": "schueler",
+    "firstName": "Ibrahim",
+    "lastName": "Aqtash",
+    "schoolClass": "8e",
+    "birthdate": "Unbekannt",
+    "username": "",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Fettsack",
+        "reason": "Frag 하성"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
