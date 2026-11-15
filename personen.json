@@ -271,5 +271,23 @@
     ],
     "uploader": "Namlino123a",
     "date": "15.11.2026"
+  },
+  {
+    "id": "pers_1794734711693",
+    "subCategory": "schueler",
+    "firstName": "Philipp",
+    "lastName": "Herold",
+    "schoolClass": "8e",
+    "birthdate": "Unbekannt",
+    "username": "",
+    "subjects": [],
+    "nicknames": [
+      {
+        "nick": "Held",
+        "reason": "Wegen Herold (frag 하성)"
+      }
+    ],
+    "uploader": "Namlino123a",
+    "date": "15.11.2026"
   }
 ]
