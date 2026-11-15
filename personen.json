@@ -59,6 +59,7 @@
     "schoolClass": "8e",
     "birthdate": "07.01.2013",
     "username": "hasung",
+    "subjects": [],
     "nicknames": [
       {
         "nick": "Fahh",
@@ -70,11 +71,11 @@
       },
       {
         "nick": "Haseng (alt)",
-        "reason": "Keine Ahnung"
+        "reason": "Wegen Sukhwan"
       },
       {
         "nick": "Hasi (alt)",
-        "reason": "Keine Ahnung"
+        "reason": "Wegen Grundschule"
       },
       {
         "nick": "Jong Jong",
@@ -82,7 +83,7 @@
       }
     ],
     "uploader": "Namlino123a",
-    "date": "14.11.2026"
+    "date": "15.11.2026"
   },
   {
     "id": "pers_1794684069966",
