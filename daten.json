@@ -154,5 +154,24 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 16:28"
+  },
+  {
+    "id": "gh_1794810795326",
+    "title": "Bentobox Bild am 17.11.2026 (Alternative)",
+    "desc": "De Leo, Patrick et Nam \n\nDe Vitt, Lê giang et ling ling \n\n@Leo Han, @Patrick Kappelmaier, @Hoai Nam Pham",
+    "category": "bilder",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794810795723_IMG-20261115-WA0016.jpg",
+    "filePath": "releases/school-storage-files/1794810795723_IMG-20261115-WA0016.jpg",
+    "fileName": "IMG-20261115-WA0016.jpg",
+    "uploader": "97trua",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "16.11.2026, 07:33",
+    "editedDate": "16.11.2026, 07:33"
   }
 ]
