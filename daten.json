@@ -173,5 +173,24 @@
     "isVerified": true,
     "date": "16.11.2026, 10:46",
     "editedDate": "16.11.2026, 10:46"
+  },
+  {
+    "id": "gh_1794823077972",
+    "title": "Textdatei bentobox",
+    "desc": "@Leo Han, @Patrick Kappelmaier und @Hoai Nam Pham",
+    "category": "praesentationen",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794823078747_Textdatei_bentobox.txt",
+    "filePath": "releases/school-storage-files/1794823078747_Textdatei_bentobox.txt",
+    "fileName": "Textdatei bentobox.txt",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "16.11.2026, 10:57",
+    "editedDate": "16.11.2026, 10:57"
   }
 ]
