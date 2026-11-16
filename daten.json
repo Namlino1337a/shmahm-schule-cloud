@@ -192,5 +192,24 @@
     "isVerified": true,
     "date": "16.11.2026, 17:25",
     "editedDate": "16.11.2026, 17:32"
+  },
+  {
+    "id": "gh_1794846814800",
+    "title": "Bentobox 2.0",
+    "desc": "",
+    "category": "bilder",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794846814255_1000086140.jpg",
+    "filePath": "releases/school-storage-files/1794846814255_1000086140.jpg",
+    "fileName": "1000086140.jpg",
+    "uploader": "revali",
+    "uploaderRealName": "Han Leo",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "16.11.2026, 17:33",
+    "editedDate": "16.11.2026, 17:33"
   }
 ]
