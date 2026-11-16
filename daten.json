@@ -211,5 +211,24 @@
     "isVerified": false,
     "date": "16.11.2026, 17:33",
     "editedDate": "16.11.2026, 17:33"
+  },
+  {
+    "id": "gh_1794850417182",
+    "title": "Le bentobox presente blatt",
+    "desc": "Yes",
+    "category": "bilder",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794850417762_1000086155.jpg",
+    "filePath": "releases/school-storage-files/1794850417762_1000086155.jpg",
+    "fileName": "1000086155.jpg",
+    "uploader": "revali",
+    "uploaderRealName": "Han Leo",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "16.11.2026, 18:33",
+    "editedDate": "16.11.2026, 18:33"
   }
 ]
