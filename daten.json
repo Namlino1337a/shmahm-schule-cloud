@@ -290,5 +290,24 @@
     "date": "16.11.2026, 20:41",
     "editedDate": "16.11.2026, 21:05",
     "editedTimestamp": "2026-11-16T20:05:44.449Z"
+  },
+  {
+    "id": "gh_1794893063093",
+    "title": "Text",
+    "desc": "@Hoai Nam Pham",
+    "category": "bilder",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794893063545_Screenshot_20261117_062334_Google.jpg",
+    "filePath": "releases/school-storage-files/1794893063545_Screenshot_20261117_062334_Google.jpg",
+    "fileName": "Screenshot_20261117_062334_Google.jpg",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "17.11.2026, 06:24",
+    "editedDate": "17.11.2026, 06:24"
   }
 ]
