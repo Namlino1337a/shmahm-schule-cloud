@@ -339,22 +339,7 @@
     "date": "16.11.2026, 20:41",
     "editedDate": "16.11.2026, 21:05",
     "editedTimestamp": "2026-11-16T20:05:44.449Z",
-    "comments": [
-      {
-        "id": "com_1794925215198",
-        "author": "Namlino123a",
-        "authorRealName": "Pham Hoai Nam",
-        "isVerified": true,
-        "text": "test",
-        "timestamp": "17.11.2026, 15:20",
-        "pinned": false,
-        "likes": 0,
-        "dislikes": 0,
-        "likedBy": [],
-        "dislikedBy": [],
-        "replies": []
-      }
-    ]
+    "comments": []
   },
   {
     "id": "gh_1794893063093",
