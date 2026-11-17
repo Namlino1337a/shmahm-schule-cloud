@@ -295,11 +295,9 @@
             "isVerified": true,
             "text": "@Namlino123a test",
             "timestamp": "17.11.2026, 14:57",
-            "likes": 1,
+            "likes": 0,
             "dislikes": 0,
-            "likedBy": [
-              "Namlino123a"
-            ],
+            "likedBy": [],
             "dislikedBy": []
           },
           {
