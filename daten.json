@@ -241,7 +241,23 @@
     ],
     "dislikedBy": [],
     "likes": 1,
-    "dislikes": 0
+    "dislikes": 0,
+    "comments": [
+      {
+        "id": "com_1794938335460",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "@Patrick Kappelmaier du piç",
+        "timestamp": "17.11.2026, 18:58",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794850417182",
