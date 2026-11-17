@@ -269,7 +269,12 @@
     "isVerified": true,
     "date": "16.11.2026, 20:27",
     "editedDate": "17.11.2026, 14:51",
-    "editedTimestamp": "2026-11-17T13:51:26.904Z"
+    "editedTimestamp": "2026-11-17T13:51:26.904Z",
+    "likedBy": [
+      "Namlino123a"
+    ],
+    "dislikedBy": [],
+    "likes": 1
   },
   {
     "id": "gh_1794858064259",
