@@ -299,7 +299,7 @@
         "isVerified": true,
         "text": "test",
         "timestamp": "17.11.2026, 15:09",
-        "pinned": false,
+        "pinned": true,
         "likes": 0,
         "dislikes": 0,
         "likedBy": [],
