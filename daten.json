@@ -124,7 +124,23 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "15.11.2026, 14:45",
-    "editedDate": "16.11.2026, 17:29"
+    "editedDate": "16.11.2026, 17:29",
+    "comments": [
+      {
+        "id": "com_1794935241113",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "@Patrick Kappelmaier, du musst immernoch vorstellen. Es hat nix gebracht, zu schwänzen",
+        "timestamp": "17.11.2026, 18:07",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794756452171",
