@@ -283,9 +283,11 @@
         "text": "test",
         "timestamp": "17.11.2026, 14:57",
         "pinned": false,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0,
-        "likedBy": [],
+        "likedBy": [
+          "Namlino123a"
+        ],
         "dislikedBy": [],
         "replies": []
       }
