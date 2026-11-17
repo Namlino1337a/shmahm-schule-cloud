@@ -299,6 +299,12 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "17.11.2026, 17:25",
-    "editedDate": "17.11.2026, 17:27"
+    "editedDate": "17.11.2026, 17:27",
+    "likedBy": [
+      "Namlino123a"
+    ],
+    "dislikedBy": [],
+    "likes": 1,
+    "dislikes": 0
   }
 ]
