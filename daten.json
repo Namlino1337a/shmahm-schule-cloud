@@ -134,9 +134,11 @@
         "text": "@Patrick Kappelmaier, du musst immernoch vorstellen. Es hat nix gebracht, zu schwänzen",
         "timestamp": "17.11.2026, 18:07",
         "pinned": false,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0,
-        "likedBy": [],
+        "likedBy": [
+          "Namlino123a"
+        ],
         "dislikedBy": [],
         "replies": []
       }
