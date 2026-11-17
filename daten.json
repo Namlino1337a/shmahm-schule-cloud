@@ -315,6 +315,20 @@
             "dislikedBy": []
           }
         ]
+      },
+      {
+        "id": "com_1794924405921",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "test",
+        "timestamp": "17.11.2026, 15:06",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
       }
     ]
   },
