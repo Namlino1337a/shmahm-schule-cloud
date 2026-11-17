@@ -255,7 +255,13 @@
     "schoolClass": "8e",
     "isVerified": false,
     "date": "16.11.2026, 18:34",
-    "editedDate": "16.11.2026, 18:34"
+    "editedDate": "16.11.2026, 18:34",
+    "likedBy": [
+      "Namlino123a"
+    ],
+    "dislikedBy": [],
+    "likes": 1,
+    "dislikes": 0
   },
   {
     "id": "gh_1794858064259",
