@@ -276,22 +276,7 @@
     "dislikedBy": [],
     "likes": 0,
     "dislikes": 0,
-    "comments": [
-      {
-        "id": "com_1794930248133",
-        "author": "Namlino123a",
-        "authorRealName": "Pham Hoai Nam",
-        "isVerified": false,
-        "text": "@Hoai Nam Pham",
-        "timestamp": "17.11.2026, 16:44",
-        "pinned": false,
-        "likes": 0,
-        "dislikes": 0,
-        "likedBy": [],
-        "dislikedBy": [],
-        "replies": []
-      }
-    ]
+    "comments": []
   },
   {
     "id": "gh_1794858064259",
