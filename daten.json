@@ -67,7 +67,13 @@
     "date": "14.11.2026, 17:07",
     "uploaderRealName": "Pham Hoai Nam",
     "editedDate": "17.11.2026, 05:48",
-    "editedTimestamp": "2026-11-17T04:48:03.819Z"
+    "editedTimestamp": "2026-11-17T04:48:03.819Z",
+    "likedBy": [
+      "Namlino123a"
+    ],
+    "dislikedBy": [],
+    "likes": 1,
+    "dislikes": 0
   },
   {
     "id": "gh_1794674212975",
