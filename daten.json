@@ -300,11 +300,11 @@
     "isVerified": true,
     "date": "17.11.2026, 17:25",
     "editedDate": "17.11.2026, 17:27",
-    "likedBy": [
+    "likedBy": [],
+    "dislikedBy": [
       "Namlino123a"
     ],
-    "dislikedBy": [],
-    "likes": 1,
-    "dislikes": 0
+    "likes": 0,
+    "dislikes": 1
   }
 ]
