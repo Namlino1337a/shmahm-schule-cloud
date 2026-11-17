@@ -280,7 +280,7 @@
         "author": "Namlino123a",
         "authorRealName": "Pham Hoai Nam",
         "isVerified": true,
-        "text": "test",
+        "text": "eds",
         "timestamp": "17.11.2026, 14:57",
         "pinned": false,
         "likes": 1,
@@ -289,7 +289,8 @@
           "Namlino123a"
         ],
         "dislikedBy": [],
-        "replies": []
+        "replies": [],
+        "edited": true
       }
     ]
   },
