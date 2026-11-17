@@ -286,7 +286,8 @@
     "subject": "Allgemein",
     "visibility": "bestimmte_personen",
     "allowedUsers": [
-      "namlino123a"
+      "namlino123a",
+      "97trua"
     ],
     "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794932727034_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
     "filePath": "releases/school-storage-files/1794932727034_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
@@ -297,6 +298,7 @@
     "uploaderRole": "Schüler",
     "schoolClass": "8e",
     "isVerified": true,
-    "date": "17.11.2026, 17:25"
+    "date": "17.11.2026, 17:25",
+    "editedDate": "17.11.2026, 17:27"
   }
 ]
