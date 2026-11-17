@@ -321,31 +321,6 @@
     "comments": []
   },
   {
-    "id": "gh_1794927544572",
-    "title": "tes",
-    "desc": "test",
-    "category": "bilder",
-    "subject": "Allgemein",
-    "visibility": "oeffentlich",
-    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794927547358_undefined",
-    "filePath": "releases/school-storage-files/1794927547358_undefined",
-    "filePaths": [
-      "releases/school-storage-files/1794927544724_20260601_232422_1_.jpg"
-    ],
-    "fileName": "undefined",
-    "images": [
-      "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794927544724_20260601_232422_1_.jpg"
-    ],
-    "uploader": "Namlino123a",
-    "uploaderRealName": "Pham Hoai Nam",
-    "teacherSubjects": "",
-    "uploaderRole": "Schüler",
-    "schoolClass": "8e",
-    "isVerified": true,
-    "date": "17.11.2026, 15:59",
-    "editedDate": "17.11.2026, 15:59"
-  },
-  {
     "id": "gh_1794927594440",
     "title": "zerz",
     "desc": "zer",
