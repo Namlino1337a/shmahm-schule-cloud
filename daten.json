@@ -287,7 +287,20 @@
         "dislikes": 0,
         "likedBy": [],
         "dislikedBy": [],
-        "replies": []
+        "replies": [
+          {
+            "id": "rep_1794923863454",
+            "author": "Namlino123a",
+            "authorRealName": "Pham Hoai Nam",
+            "isVerified": true,
+            "text": "@Namlino123a test",
+            "timestamp": "17.11.2026, 14:57",
+            "likes": 0,
+            "dislikes": 0,
+            "likedBy": [],
+            "dislikedBy": []
+          }
+        ]
       }
     ]
   },
