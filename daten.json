@@ -100,22 +100,7 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "14.11.2026, 20:36",
-    "comments": [
-      {
-        "id": "com_1794924798056",
-        "author": "Namlino123a",
-        "authorRealName": "Pham Hoai Nam",
-        "isVerified": true,
-        "text": "@Hoai Nam Pham",
-        "timestamp": "17.11.2026, 15:13",
-        "pinned": false,
-        "likes": 0,
-        "dislikes": 0,
-        "likedBy": [],
-        "dislikedBy": [],
-        "replies": []
-      }
-    ]
+    "comments": []
   },
   {
     "id": "gh_1794750329452",
