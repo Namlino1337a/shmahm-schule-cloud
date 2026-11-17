@@ -319,30 +319,5 @@
     "editedDate": "17.11.2026, 06:37",
     "editedTimestamp": "2026-11-17T05:37:06.668Z",
     "comments": []
-  },
-  {
-    "id": "gh_1794927594440",
-    "title": "zerz",
-    "desc": "zer",
-    "category": "videos",
-    "subject": "Allgemein",
-    "visibility": "oeffentlich",
-    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794927597309_undefined",
-    "filePath": "releases/school-storage-files/1794927597309_undefined",
-    "filePaths": [
-      "releases/school-storage-files/1794927593598_20261113_215322.mp4"
-    ],
-    "fileName": "undefined",
-    "images": [
-      "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794927593598_20261113_215322.mp4"
-    ],
-    "uploader": "Namlino123a",
-    "uploaderRealName": "Pham Hoai Nam",
-    "teacherSubjects": "",
-    "uploaderRole": "Schüler",
-    "schoolClass": "8e",
-    "isVerified": true,
-    "date": "17.11.2026, 15:59",
-    "editedDate": "17.11.2026, 15:59"
   }
 ]
