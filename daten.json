@@ -319,5 +319,23 @@
     "editedDate": "17.11.2026, 06:37",
     "editedTimestamp": "2026-11-17T05:37:06.668Z",
     "comments": []
+  },
+  {
+    "id": "gh_1794928584439",
+    "title": "test",
+    "desc": "test",
+    "category": "bilder",
+    "subject": "Französisch",
+    "visibility": "oeffentlich",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794928587344_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "filePath": "releases/school-storage-files/1794928587344_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "fileName": "WhatsApp Image 2026-11-09 at 19.06.29.jpeg",
+    "uploader": "Namlino123a",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": true,
+    "date": "17.11.2026, 16:16"
   }
 ]
