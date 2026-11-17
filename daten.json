@@ -298,11 +298,11 @@
     "editedDate": "17.11.2026, 06:37",
     "editedTimestamp": "2026-11-17T05:37:06.668Z",
     "comments": [],
-    "likedBy": [
+    "likedBy": [],
+    "dislikedBy": [
       "Namlino123a"
     ],
-    "dislikedBy": [],
-    "likes": 1,
-    "dislikes": 0
+    "likes": 0,
+    "dislikes": 1
   }
 ]
