@@ -272,9 +272,11 @@
     "date": "16.11.2026, 20:27",
     "editedDate": "17.11.2026, 14:51",
     "editedTimestamp": "2026-11-17T13:51:26.904Z",
-    "likedBy": [],
+    "likedBy": [
+      "Namlino123a"
+    ],
     "dislikedBy": [],
-    "likes": 0,
+    "likes": 1,
     "dislikes": 0,
     "comments": []
   },
