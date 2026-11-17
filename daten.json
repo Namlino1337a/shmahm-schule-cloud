@@ -248,14 +248,15 @@
         "author": "Namlino123a",
         "authorRealName": "Pham Hoai Nam",
         "isVerified": true,
-        "text": "@Patrick Kappelmaier du piç",
+        "text": "@Patrick Kappelmaier\nDu Piç",
         "timestamp": "17.11.2026, 18:58",
         "pinned": false,
         "likes": 0,
         "dislikes": 0,
         "likedBy": [],
         "dislikedBy": [],
-        "replies": []
+        "replies": [],
+        "edited": true
       }
     ]
   },
