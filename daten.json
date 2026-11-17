@@ -251,9 +251,11 @@
         "text": "@Patrick Kappelmaier\nDu Piç",
         "timestamp": "17.11.2026, 18:58",
         "pinned": false,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0,
-        "likedBy": [],
+        "likedBy": [
+          "Namlino123a"
+        ],
         "dislikedBy": [],
         "replies": [],
         "edited": true
