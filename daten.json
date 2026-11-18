@@ -71,7 +71,23 @@
     "likedBy": [],
     "dislikedBy": [],
     "likes": 0,
-    "dislikes": 0
+    "dislikes": 0,
+    "comments": [
+      {
+        "id": "com_1794990861177",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "Wir haben so reingekackt...",
+        "timestamp": "18.11.2026, 09:34",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794674212975",
