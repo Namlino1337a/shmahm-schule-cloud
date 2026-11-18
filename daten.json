@@ -331,7 +331,20 @@
           "97trua"
         ],
         "dislikedBy": [],
-        "replies": [],
+        "replies": [
+          {
+            "id": "rep_1795002558555",
+            "author": "Namlino123a",
+            "authorRealName": "Pham Hoai Nam",
+            "isVerified": true,
+            "text": "@Namlino123a TeT",
+            "timestamp": "18.11.2026, 12:49",
+            "likes": 0,
+            "dislikes": 0,
+            "likedBy": [],
+            "dislikedBy": []
+          }
+        ],
         "edited": true
       }
     ]
