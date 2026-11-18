@@ -398,24 +398,5 @@
     "editedDate": "16.11.2026, 21:05",
     "editedTimestamp": "2026-11-16T20:05:44.449Z",
     "comments": []
-  },
-  {
-    "id": "gh_1795002494022",
-    "title": "Hs",
-    "desc": "Va",
-    "category": "bilder",
-    "subject": "Allgemein",
-    "visibility": "oeffentlich",
-    "allowedUsers": [],
-    "fileUrl": "https://raw.githubusercontent.com/Nam-HD/shmahm-schule-cloud/main/uploads/bilder/1795002496176_IMG-20261117-WA0000.jpg",
-    "filePath": "uploads/bilder/1795002496176_IMG-20261117-WA0000.jpg",
-    "fileName": "IMG-20261117-WA0000.jpg",
-    "uploader": "97trua",
-    "uploaderRealName": "Pham Hoai Nam",
-    "teacherSubjects": "",
-    "uploaderRole": "Schüler",
-    "schoolClass": "8e",
-    "isVerified": false,
-    "date": "18.11.2026, 12:48"
   }
 ]
