@@ -80,7 +80,7 @@
         "isVerified": true,
         "text": "Wir haben so reingekackt...",
         "timestamp": "18.11.2026, 09:34",
-        "pinned": false,
+        "pinned": true,
         "likes": 0,
         "dislikes": 0,
         "likedBy": [],
