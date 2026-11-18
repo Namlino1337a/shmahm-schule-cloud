@@ -150,7 +150,22 @@
     "schoolClass": "8e",
     "isVerified": true,
     "date": "14.11.2026, 20:36",
-    "comments": []
+    "comments": [
+      {
+        "id": "com_1794991144109",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "2, 3, 4, 5, 6, 7 schon gemacht. Jetzt fehlt nur noch 1.",
+        "timestamp": "18.11.2026, 09:39",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794750329452",
