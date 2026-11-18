@@ -86,45 +86,6 @@
         "likedBy": [],
         "dislikedBy": [],
         "replies": []
-      },
-      {
-        "id": "com_1794990893945",
-        "author": "97trua",
-        "authorRealName": "Pham Hoai Nam",
-        "isVerified": false,
-        "text": "test",
-        "timestamp": "18.11.2026, 09:34",
-        "pinned": false,
-        "likes": 0,
-        "dislikes": 0,
-        "likedBy": [],
-        "dislikedBy": [],
-        "replies": [
-          {
-            "id": "rep_1794990915549",
-            "author": "97trua",
-            "authorRealName": "Pham Hoai Nam",
-            "isVerified": false,
-            "text": "@97trua test",
-            "timestamp": "18.11.2026, 09:35",
-            "likes": 0,
-            "dislikes": 0,
-            "likedBy": [],
-            "dislikedBy": []
-          },
-          {
-            "id": "rep_1794990928965",
-            "author": "97trua",
-            "authorRealName": "Pham Hoai Nam",
-            "isVerified": false,
-            "text": "@97trua test",
-            "timestamp": "18.11.2026, 09:35",
-            "likes": 0,
-            "dislikes": 0,
-            "likedBy": [],
-            "dislikedBy": []
-          }
-        ]
       }
     ]
   },
