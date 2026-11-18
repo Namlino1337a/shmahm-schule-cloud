@@ -416,6 +416,22 @@
     "uploaderRole": "Schüler",
     "schoolClass": "8e",
     "isVerified": true,
-    "date": "18.11.2026, 17:45"
+    "date": "18.11.2026, 17:45",
+    "comments": [
+      {
+        "id": "com_1795020316062",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "test",
+        "timestamp": "18.11.2026, 17:45",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   }
 ]
