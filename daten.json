@@ -407,8 +407,8 @@
     "subject": "Allgemein",
     "visibility": "oeffentlich",
     "allowedUsers": [],
-    "fileUrl": "https://raw.githubusercontent.com/Nam-HD/shmahm-schule-cloud/main/uploads/bilder/1795020675669_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
-    "filePath": "uploads/bilder/1795020675669_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1795020725634_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
+    "filePath": "releases/school-storage-files/1795020725634_WhatsApp_Image_2026-11-09_at_19.06.29.jpeg",
     "fileName": "WhatsApp Image 2026-11-09 at 19.06.29.jpeg",
     "uploader": "Namlino123a",
     "uploaderRealName": "Pham Hoai Nam",
@@ -416,6 +416,7 @@
     "uploaderRole": "Schüler",
     "schoolClass": "8e",
     "isVerified": true,
-    "date": "18.11.2026, 17:51"
+    "date": "18.11.2026, 17:51",
+    "editedDate": "18.11.2026, 17:52"
   }
 ]
