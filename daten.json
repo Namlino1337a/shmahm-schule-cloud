@@ -84,12 +84,12 @@
     "uploaderRealName": "Pham Hoai Nam",
     "editedDate": "17.11.2026, 05:48",
     "editedTimestamp": "2026-11-17T04:48:03.819Z",
-    "likedBy": [
+    "likedBy": [],
+    "dislikedBy": [
       "Namlino123a"
     ],
-    "dislikedBy": [],
-    "likes": 1,
-    "dislikes": 0,
+    "likes": 0,
+    "dislikes": 1,
     "comments": [
       {
         "id": "com_1794990861177",
