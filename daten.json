@@ -398,5 +398,27 @@
     "editedDate": "16.11.2026, 21:05",
     "editedTimestamp": "2026-11-16T20:05:44.449Z",
     "comments": []
+  },
+  {
+    "id": "gh_1795002464148",
+    "title": "TeT",
+    "desc": "Ets",
+    "category": "bilder",
+    "subject": "Allgemein",
+    "visibility": "bestimmte_personen",
+    "allowedUsers": [
+      "finn13",
+      "97trua"
+    ],
+    "fileUrl": "https://raw.githubusercontent.com/Nam-HD/shmahm-schule-cloud/main/uploads/bilder/1795002466157_IMG-20261117-WA0000.jpg",
+    "filePath": "uploads/bilder/1795002466157_IMG-20261117-WA0000.jpg",
+    "fileName": "IMG-20261117-WA0000.jpg",
+    "uploader": "97trua",
+    "uploaderRealName": "Pham Hoai Nam",
+    "teacherSubjects": "",
+    "uploaderRole": "Schüler",
+    "schoolClass": "8e",
+    "isVerified": false,
+    "date": "18.11.2026, 12:47"
   }
 ]
