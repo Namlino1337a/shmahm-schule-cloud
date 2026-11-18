@@ -14,7 +14,23 @@
     "filePath": "releases/school-storage-files/1794671929908_Screenshot_2026-11-13_190230.png",
     "fileUrl": "https://github.com/Namlino1337a/shmahm-schule-cloud/releases/download/school-storage-files/1794671929908_Screenshot_2026-11-13_190230.png",
     "editedDate": "14.11.2026, 16:58",
-    "subject": "Allgemein"
+    "subject": "Allgemein",
+    "comments": [
+      {
+        "id": "com_1794991028310",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "2 und 3 schon gemacht, es fehlt nur noch 1",
+        "timestamp": "18.11.2026, 09:37",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794653851948",
