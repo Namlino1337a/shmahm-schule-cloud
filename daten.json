@@ -85,7 +85,20 @@
         "dislikes": 0,
         "likedBy": [],
         "dislikedBy": [],
-        "replies": []
+        "replies": [
+          {
+            "id": "rep_1794990946510",
+            "author": "97trua",
+            "authorRealName": "Pham Hoai Nam",
+            "isVerified": false,
+            "text": "@Namlino123a fr",
+            "timestamp": "18.11.2026, 09:35",
+            "likes": 0,
+            "dislikes": 0,
+            "likedBy": [],
+            "dislikedBy": []
+          }
+        ]
       }
     ]
   },
