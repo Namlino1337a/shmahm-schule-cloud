@@ -28,7 +28,20 @@
         "dislikes": 0,
         "likedBy": [],
         "dislikedBy": [],
-        "replies": []
+        "replies": [
+          {
+            "id": "rep_1795273549902",
+            "author": "Namlino123a",
+            "authorRealName": "Pham Hoai Nam",
+            "isVerified": true,
+            "text": "@Namlino123a 1 existiert schon, aber es funktioniert noch nicht",
+            "timestamp": "21.11.2026, 16:05",
+            "likes": 0,
+            "dislikes": 0,
+            "likedBy": [],
+            "dislikedBy": []
+          }
+        ]
       }
     ]
   },
