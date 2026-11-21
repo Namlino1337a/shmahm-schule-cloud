@@ -353,7 +353,23 @@
     "schoolClass": "8e",
     "isVerified": false,
     "date": "16.11.2026, 18:33",
-    "editedDate": "16.11.2026, 18:33"
+    "editedDate": "16.11.2026, 18:33",
+    "comments": [
+      {
+        "id": "com_1795273457296",
+        "author": "Namlino123a",
+        "authorRealName": "Pham Hoai Nam",
+        "isVerified": true,
+        "text": "Selankju @Leo Han",
+        "timestamp": "21.11.2026, 16:04",
+        "pinned": false,
+        "likes": 0,
+        "dislikes": 0,
+        "likedBy": [],
+        "dislikedBy": [],
+        "replies": []
+      }
+    ]
   },
   {
     "id": "gh_1794850445682",
