@@ -309,12 +309,12 @@
     "isVerified": false,
     "date": "16.11.2026, 17:33",
     "editedDate": "16.11.2026, 17:33",
-    "likedBy": [],
-    "dislikedBy": [
+    "likedBy": [
       "Namlino123a"
     ],
-    "likes": 0,
-    "dislikes": 1,
+    "dislikedBy": [],
+    "likes": 1,
+    "dislikes": 0,
     "comments": [
       {
         "id": "com_1794938335460",
